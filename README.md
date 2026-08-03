@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+<hl>˚ ༘♡ ·˚ ₊˚ˑ༄ؘ ꈍᴗꈍ</hl>
+<h3>𝙃𝙚𝙮𝙤𝙤𝙤𝙤1!!</h3>
+</div>
 
 <!--
 **phainonlic/phainonlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
