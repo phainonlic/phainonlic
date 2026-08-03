@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<hl>˚ ༘♡ ·˚ ₊˚ˑ༄ؘ ꈍᴗꈍ<a> height="36"/></hl>
+<hl>˚ ༘♡ ·˚ ₊˚ˑ༄ؘ ꈍᴗꈍ </hl>
 <h3>𝙃𝙚𝙮𝙤𝙤𝙤𝙤1!!</h3>
 </div>
 
